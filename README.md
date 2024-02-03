@@ -21,4 +21,4 @@ The Banking Management System is a simple console-based application implemented 
 ### Compilation
 
 ```bash
-gcc banking_system.c -o banking_system
+gcc BMS_Banking_System.c -o BMS_Banking_System
